@@ -159,3 +159,41 @@ quarta parte
     margin-top: 0px;
     text-align: end;
 }
+
+/*
+
+quinta parte
+
+*/
+
+.ult{
+    background-color: #3882F6;
+    margin: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 80px 60px;
+
+}
+
+.acao-right{
+    align-self: center;
+}
+
+.input{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    margin-right: 15px;
+}
+.acao{
+    margin-left: 20px;
+}
+
+.acao .text1{
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.acao .text2{
+    font-size: 16px;
+    margin-top: 0;
+}
